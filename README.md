@@ -1,2 +1,2 @@
-# js-exercises
+# javascript-exercises
 A collection of JavaScript exercises.
